@@ -15,9 +15,7 @@
  
 <!-- TOC -->
 - [1. Overview](#1-overview)
-- [2. Tools](#2-project-files)
-- [3. VOSViewer](#3-vosviewer)
-- [4. Bibliometrix](#4-bibliometrix) 
+- [2. Tools](#2-project-files) 
    
 <!-- /TOC -->
  
