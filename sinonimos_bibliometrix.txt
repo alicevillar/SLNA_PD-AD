@@ -1,0 +1,9 @@
+human,humans
+nonhuman,animals,animal
+periodontitis,periodontal disease
+human,humans
+nonhuman,animals
+periodontitis,periodontal disease
+animal,animals
+periodontal disease,periodontal diseases
+
