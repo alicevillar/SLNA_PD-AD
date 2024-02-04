@@ -6,7 +6,7 @@
  <br> 
  
  
->Welcome to the official repository for the paper titled "TPeriodontal Disease and Alzheimer's: Insights from a Systematic Literature Network Analysis". This repository contains all the necessary files for Bibliometrix.  
+>Welcome to the official repository for the paper titled "Periodontal Disease and Alzheimer's: Insights from a Systematic Literature Network Analysis". This repository contains all the necessary files for Bibliometrix.  
 
  
  <br> 
