@@ -21,7 +21,7 @@
  
 ## 1. Overview 
  <br> 
-This study, which is based on secondary data, employed the Systematic Literature Network Analysis (SLNA) method, combining bibliographic analysis and Systematic Literature Review (SLR) to investigate the relationship between periodontal disease (PD) and Alzheimer's Disease (AD) . The analysis involved 667 documents published between 2000 and 2023 and utilized Bibliometrix software for multiple bibliometric analyses, drawing on publications from SCOPUS database. The authors have committed to transparency and reproducibility in their research. They have uploaded the bibliometric analysis materials to a GitHub repository, ensuring easy public access and review.  
+This study, which is based on secondary data, employed the Systematic Literature Network Analysis (SLNA) method, combining bibliographic analysis and Systematic Literature Review (SLR) to investigate the relationship between periodontal disease (PD) and Alzheimer's Disease (AD) . The analysis involved 328 documents published between 2000 and 2023 and utilized Bibliometrix software for multiple bibliometric analyses, drawing on publications from SCOPUS database. The authors have committed to transparency and reproducibility in their research. They have uploaded the bibliometric analysis materials to a GitHub repository, ensuring easy public access and review.  
 
 <br>  
 
