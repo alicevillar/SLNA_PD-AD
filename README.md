@@ -8,7 +8,12 @@
  
 >Welcome to the official repository for the paper titled "Periodontal Disease and Alzheimer's: Insights from a Systematic Literature Network Analysis". This repository contains all the necessary files for Bibliometrix.  
 
- 
+  Click  [**HERE**](https://link.springer.com/article/10.14283/jpad.2024.79) to read the article.
+
+
+* CITE:
+
+>  Villar, A., Paladini, S., & Cossatis, J. (2024). Periodontal Disease and Alzheimer’s: Insights from a Systematic Literature Network Analysis. The Journal of Prevention of Alzheimer's Disease, 1-18.
  <br> 
  
 <h1>Table of Contents</h1>
